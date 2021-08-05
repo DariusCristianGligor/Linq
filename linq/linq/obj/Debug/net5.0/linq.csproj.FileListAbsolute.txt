@@ -1,0 +1,16 @@
+C:\Users\dariu\Desktop\IA\Linq\Linq\linq\linq\obj\Debug\net5.0\linq.csproj.AssemblyReference.cache
+C:\Users\dariu\Desktop\IA\Linq\Linq\linq\linq\obj\Debug\net5.0\linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dariu\Desktop\IA\Linq\Linq\linq\linq\obj\Debug\net5.0\linq.AssemblyInfoInputs.cache
+C:\Users\dariu\Desktop\IA\Linq\Linq\linq\linq\obj\Debug\net5.0\linq.AssemblyInfo.cs
+C:\Users\dariu\Desktop\IA\Linq\Linq\linq\linq\obj\Debug\net5.0\linq.csproj.CoreCompileInputs.cache
+C:\Users\dariu\Desktop\IA\Linq\Linq\linq\linq\bin\Debug\net5.0\linq.exe
+C:\Users\dariu\Desktop\IA\Linq\Linq\linq\linq\bin\Debug\net5.0\linq.deps.json
+C:\Users\dariu\Desktop\IA\Linq\Linq\linq\linq\bin\Debug\net5.0\linq.runtimeconfig.json
+C:\Users\dariu\Desktop\IA\Linq\Linq\linq\linq\bin\Debug\net5.0\linq.runtimeconfig.dev.json
+C:\Users\dariu\Desktop\IA\Linq\Linq\linq\linq\bin\Debug\net5.0\linq.dll
+C:\Users\dariu\Desktop\IA\Linq\Linq\linq\linq\bin\Debug\net5.0\ref\linq.dll
+C:\Users\dariu\Desktop\IA\Linq\Linq\linq\linq\bin\Debug\net5.0\linq.pdb
+C:\Users\dariu\Desktop\IA\Linq\Linq\linq\linq\obj\Debug\net5.0\linq.dll
+C:\Users\dariu\Desktop\IA\Linq\Linq\linq\linq\obj\Debug\net5.0\ref\linq.dll
+C:\Users\dariu\Desktop\IA\Linq\Linq\linq\linq\obj\Debug\net5.0\linq.pdb
+C:\Users\dariu\Desktop\IA\Linq\Linq\linq\linq\obj\Debug\net5.0\linq.genruntimeconfig.cache
